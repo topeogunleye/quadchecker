@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="Microverse Logo" width="140" />
+  <img src="./l2e.png" alt="Microverse Logo" width="140" />
   <br/>
   <h3><b>Quadchecker</b></h3>
 </div>
