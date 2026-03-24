@@ -54,14 +54,11 @@ func generateQuadC(x, y int) string {
 		return ""
 	}
 	var lines []string
-	if y >= 1 {
-		lines = append(lines, makeLine(x, 'A', 'B', 'A'))
+	lines = append(lines, makeLine(x, 'A', 'B', 'A'))
+	for i := 0; i < y-2; i++ {
+		lines = append(lines, makeLine(x, 'B', ' ', 'B'))
 	}
-	if y > 2 {
-		for i := 0; i < y-2; i++ {
-			lines = append(lines, makeLine(x, 'B', ' ', 'B'))
-		}
-	}
+
 	if y > 1 {
 		lines = append(lines, makeLine(x, 'C', 'B', 'C'))
 	}
