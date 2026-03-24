@@ -154,15 +154,15 @@ Not a quad function
 
 👤 **Ifeanyichukwu sixtus Attah Name**
 
-- Gitea: [@your-gitea-handle](https://acad.learn2earn.ng/git/iattah)
+- Gitea: [@iattah](https://acad.learn2earn.ng/git/iattah)
 
 👤 **Victor Olasupo**
 
-- GitHub: [@your-github-handle](https://acad.learn2earn.ng/git/violasupo)
+- Gitea: [@violasupo](https://acad.learn2earn.ng/git/violasupo)
 
 👤 **Temitope Ogunleye**
 
-- GitHub: [@your-github-handle](https://acad.learn2earn.ng/git/togunleye)
+- Gitea: [@togunleye](https://acad.learn2earn.ng/git/togunleye)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
