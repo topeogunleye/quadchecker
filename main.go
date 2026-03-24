@@ -24,7 +24,7 @@ func generateQuadA(x, y int) string {
 		return ""
 	}
 	var lines []string
-	lines = append(lines, makeLine(x, '|', ' ', '|'))
+	lines = append(lines, makeLine(x, 'o', '-', 'o'))
 	for i := 0; i < y-2; i++ {
 		lines = append(lines, makeLine(x, '|', ' ', '|'))
 	}
