@@ -152,11 +152,18 @@ Not a quad function
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Your Name**
+👤 **Ifeanyichukwu sixtus Attah Name**
 
-- GitHub: [@your-github-handle](https://github.com/your-github-handle)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin-handle)
+- Gitea: [@your-gitea-handle](https://acad.learn2earn.ng/git/iattah)
+
+👤 **Victor Olasupo**
+
+- GitHub: [@your-github-handle](https://acad.learn2earn.ng/git/violasupo)
+
+👤 **Temitope Ogunleye**
+
+- GitHub: [@your-github-handle](https://acad.learn2earn.ng/git/togunleye)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
